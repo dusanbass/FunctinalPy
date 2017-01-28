@@ -1,1 +1,3 @@
-"https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming \n this is source, \n https://www.youtube.com/watch?v=e-5obm1G_FY \n and this is how I've learned about it." 
+"https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming
+this is source, and
+https://www.youtube.com/watch?v=e-5obm1G_FY and this is how I've learned about it." 
